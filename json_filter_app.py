@@ -9,7 +9,7 @@ st.write("Created By : Parthebhan Pari")
 st.write("\n")
 
 # Text Area to Paste JSON
-st.subheader("Step 1: Paste Your JSON Data Below")
+st.subheader("Paste Your JSON Data Below")
 json_input = st.text_area("Paste your JSON here:")
 
 if json_input:  # If JSON is provided
