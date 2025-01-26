@@ -45,6 +45,6 @@ Access the app directly using the link below:
 
 
 ## Author  
-*Parthebhan Pari*
+**Parthebhan Pari**
 
 ---  
