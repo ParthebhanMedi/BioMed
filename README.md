@@ -11,7 +11,7 @@ You can filter mentions by object type and download the results as a CSV file.
 Retrieve JSON
 To fetch JSON data, use the BERN2 API:
 
-Send a POST request to http://bern2.korea.ac.kr/plain.
+Send a POST request to http://bern2.korea.ac.kr/
 Include your text data to annotate in the request body (plain text).
 BERN2 returns JSON annotations, which you can paste into this app.
 
