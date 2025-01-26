@@ -4,6 +4,7 @@ To fetch JSON data, use the BERN2 API:
 **An Advanced Neural Biomedical Named Entity Recognition and Normalization Tool**  
 
 ## 🌐 Try the App  
+Access the app directly using the link below:
 [![Streamlit A](https://img.shields.io/badge/Named_Entity_Recognition_-_BERN2_API-ff69b4.svg?style=for-the-badge&logo=Streamlit)](http://bern2.korea.ac.kr/)  
 
 Send a POST request to `http://bern2.korea.ac.kr/`.  
