@@ -58,4 +58,4 @@ if json_input:  # If JSON is provided
     except Exception as e:
         st.error(f"Invalid JSON! Please check your input. Error: {e}")
 else:
-    st.info("Please paste your JSON data above to view the extracted mentions.")
+    st.info("Please paste your JSON data above to view the extracted mentions and click")
