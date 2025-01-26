@@ -10,7 +10,10 @@ You can filter mentions by object type and download the results as a CSV file.
 
 ## 🌐 Try the App
 Access the app directly using the link below:
-JSON Annotations Viewer - Streamlit App
+
+
+[![Streamlit A](https://img.shields.io/badge/JSON_Annotations_Viewer_-_Streamlit_App-ff69b4.svg?style=for-the-badge&logo=Streamlit)](https://jsonfilter.streamlit.app/)
+
 ### Retrieve JSON
 To fetch JSON data, use the BERN2 API:
 
