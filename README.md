@@ -26,7 +26,7 @@ Example Response:
 
 Below is a screenshot that showcases the response from the BERN2 API:  
 
-<img src="https://github.com/ParthebhanMedi/BioMed/blob/main/Screenshot%202025-01-26%20at%2009-01-59%20BERN2.png?raw=true" alt="Screenshot" width="400">
+<img src="https://github.com/ParthebhanMedi/BioMed/blob/main/Screenshot%202025-01-26%20at%2009-01-59%20BERN2.png?raw=true" alt="Screenshot" width="600">
 
 ---
 
