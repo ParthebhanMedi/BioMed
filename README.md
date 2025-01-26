@@ -22,6 +22,7 @@ Example Response:
     ]
 }
 
+https://github.com/ParthebhanMedi/BioMed/blob/main/Screenshot%202025-01-26%20at%2009-01-59%20BERN2.png
 
 
 # JSON Annotations Viewer  
