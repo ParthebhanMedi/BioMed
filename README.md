@@ -1,4 +1,4 @@
-# Biomedical Named Entity Recognition and Normalization Tool: BERN2 API
+# Biomedical Named Entity Recognition and Normalization Tool: BERN2 API and JSON Annotations Viewer
 
 To fetch JSON data, use the BERN2 API:  
 **An Advanced Neural Biomedical Named Entity Recognition and Normalization Tool**  
