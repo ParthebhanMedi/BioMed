@@ -15,14 +15,14 @@ Send a POST request to http://bern2.korea.ac.kr/
 Include your text data to annotate in the request body (plain text).
 BERN2 returns JSON annotations, which you can paste into this app.
 
-Example Response:
-{
-    "annotations": [
-        {"mention": "protein1", "obj": "protein"},
-        {"mention": "disease1", "obj": "disease"},
-        {"mention": "gene1", "obj": "gene"}
-    ]
-}
+###Example Response:
+###{
+    ###"annotations": [
+        ###{"mention": "protein1", "obj": "protein"},
+        ###{"mention": "disease1", "obj": "disease"},
+        ###{"mention": "gene1", "obj": "gene"}
+    ###]
+###}
 
 
 
