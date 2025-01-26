@@ -44,7 +44,7 @@ Access the app directly using the link below:
 - Download filtered mentions as a CSV file.  
 
 
-### Author  
-**Parthebhan Pari**  
+## Author  
+*Parthebhan Pari*
 
 ---  
