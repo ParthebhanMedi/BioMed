@@ -8,6 +8,22 @@
 ## This Streamlit app allows you to extract and filter unique mentions from a JSON file containing annotation data.  
 You can filter mentions by object type and download the results as a CSV file.  
 
+Retrieve JSON
+To fetch JSON data, use the BERN2 API:
+
+Send a POST request to http://bern2.korea.ac.kr/plain.
+Include your text data to annotate in the request body (plain text).
+BERN2 returns JSON annotations, which you can paste into this app.
+
+Example Response:
+{
+    "annotations": [
+        {"mention": "protein1", "obj": "protein"},
+        {"mention": "disease1", "obj": "disease"},
+        {"mention": "gene1", "obj": "gene"}
+    ]
+}
+
 ### Features  
 - Parse JSON data containing `annotations`.  
 - Extract all unique **mentions** and **object types**.  
