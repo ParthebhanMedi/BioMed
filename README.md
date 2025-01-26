@@ -14,6 +14,8 @@ Access the app directly using the link below:
 
 [![Streamlit A](https://img.shields.io/badge/JSON_Annotations_Viewer_-_Streamlit_App-ff69b4.svg?style=for-the-badge&logo=Streamlit)](https://jsonfilter.streamlit.app/)
 
+
+#  Biomedical Named Entity Recognition and Normalization Tool
 ### Retrieve JSON
 To fetch JSON data, use the BERN2 API:  - 
 **An Advanced Neural Biomedical Named Entity Recognition and Normalization Tool** 
