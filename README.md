@@ -1,5 +1,4 @@
----
-#  Biomedical Named Entity Recognition and Normalization Tool BERN2 API
+# Biomedical Named Entity Recognition and Normalization Tool: BERN2 API
 
 ### Retrieve JSON  
 To fetch JSON data, use the BERN2 API:  
@@ -7,8 +6,9 @@ To fetch JSON data, use the BERN2 API:
 
 [![Streamlit A](https://img.shields.io/badge/Named_Entity_Recognition_-_BERN2_API-ff69b4.svg?style=for-the-badge&logo=Streamlit)](http://bern2.korea.ac.kr/)  
 
-Send a POST request to http://bern2.korea.ac.kr/  
+Send a POST request to `http://bern2.korea.ac.kr/`.  
 Include your text data to annotate in the request body (plain text).  
+
 BERN2 returns JSON annotations, which you can paste into this app.
 
 #### Example Response  
@@ -21,10 +21,11 @@ BERN2 returns JSON annotations, which you can paste into this app.
     ]
 }
 ```
+
 ---
 
 ### Screenshot  
-Below is a screenshot that showcases the response from the BERN2 API:  
+Below is a screenshot showcasing the response from the BERN2 API:  
 <img src="https://github.com/ParthebhanMedi/BioMed/blob/main/Screenshot%202025-01-26%20at%2009-01-59%20BERN2.png?raw=true" alt="Screenshot" width="600">
 
 ---
@@ -48,6 +49,5 @@ Access the app directly using the link below:
 
 ---
 
-## Author  
+### Author  
 **Parthebhan Pari**
----
