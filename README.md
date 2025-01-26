@@ -4,17 +4,6 @@
 
 ---
 
-# JSON Annotations Viewer  
-## This Streamlit app allows you to extract and filter unique mentions from a JSON file containing annotation data.  
-You can filter mentions by object type and download the results as a CSV file.  
-
-## 🌐 Try the App
-Access the app directly using the link below:
-
-
-[![Streamlit A](https://img.shields.io/badge/JSON_Annotations_Viewer_-_Streamlit_App-ff69b4.svg?style=for-the-badge&logo=Streamlit)](https://jsonfilter.streamlit.app/)
-
-
 #  Biomedical Named Entity Recognition and Normalization Tool BERN2 API
 ### Retrieve JSON
 To fetch JSON data, use the BERN2 API:  - 
@@ -32,6 +21,19 @@ Example Response:
         {"mention": "gene1", "obj": "gene"}
     ]
 }
+
+
+
+# JSON Annotations Viewer  
+## This Streamlit app allows you to extract and filter unique mentions from a JSON file containing annotation data.  
+You can filter mentions by object type and download the results as a CSV file.  
+
+## 🌐 Try the App
+Access the app directly using the link below:
+
+
+[![Streamlit A](https://img.shields.io/badge/JSON_Annotations_Viewer_-_Streamlit_App-ff69b4.svg?style=for-the-badge&logo=Streamlit)](https://jsonfilter.streamlit.app/)
+
 
 ### Features  
 - Parse JSON data containing `annotations`.  
