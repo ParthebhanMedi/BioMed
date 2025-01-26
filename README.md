@@ -21,6 +21,7 @@ BERN2 returns JSON annotations, which you can paste into this app.
     ]
 }
 ```
+---
 
 ### Screenshot  
 Below is a screenshot that showcases the response from the BERN2 API:  
