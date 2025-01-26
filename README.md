@@ -9,6 +9,8 @@
 To fetch JSON data, use the BERN2 API:  - 
 **An Advanced Neural Biomedical Named Entity Recognition and Normalization Tool**
 
+[![Streamlit A](https://img.shields.io/badge/BERN2_API-ff69b4.svg?style=for-the-badge&logo=Streamlit)](http://bern2.korea.ac.kr/)
+
 Send a POST request to http://bern2.korea.ac.kr/
 Include your text data to annotate in the request body (plain text).
 BERN2 returns JSON annotations, which you can paste into this app.
